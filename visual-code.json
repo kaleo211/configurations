@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 14,
+    "editor.renderWhitespace": "boundary",
+    "editor.tabSize": 2,
+    "editor.wrappingIndent": "indent",
+
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 1,
+
+    "workbench.activityBar.visible": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.statusBar.visible": false
+}
